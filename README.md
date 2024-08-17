@@ -52,5 +52,3 @@ Unlock the hint by decoding a Base64 encoded string. Extract the AES key and use
 ### Getting the flag (!)
 
 The decrypted message will contain the flag in HTB{FLAG} format.
-
-Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
