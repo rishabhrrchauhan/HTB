@@ -10,8 +10,6 @@ Difficulty: <font color='orange'>Easy</font>
 
 <br><br>
 
-***NOTE : The headings with `(!)` should be necessarily included in your writeup while the ones with `(*)` are optional and should be included only if there is a need to. Of course, you can modify the content of each section accordingly. We just provide some boilerplate text.***
-
 # Synopsis (!)
 
 Unlock the hint by decoding a Base64 encoded string. Extract the AES key and use it to decrypt the hidden message using AES-GCM. Finally get the flag to complete the challenge.
