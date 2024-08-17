@@ -1,6 +1,6 @@
 <font size='10'>Cipher Shuffle</font>
 
-1<sup>st</sup> August 2023
+17<sup>st</sup> August 2024
 
 Prepared By: `Rishabh Chauhan`
 
