@@ -1,6 +1,4 @@
-![img](assets/banner.png)
-
-<img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'><Challenge_Name></font>
+<font size='10'>Cipher Shuffle</font>
 
 1<sup>st</sup> August 2023
 
